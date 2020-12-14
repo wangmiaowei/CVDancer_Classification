@@ -1,6 +1,7 @@
 # CVDancer_Classification
 This a EECS 504 project built by CVdancer group in university of Michigan.
-Video and Paper report will be released in future several days.
+Video(https://www.youtube.com/watch?v=hez54R_Hucs&feature=youtu.be)
+Paper report will be released in future several days.
 The code is based on the two great work about image augmentation and classfication respectively.
 
 Our objective is to create a system to classify the behaviors of smoking and calling.
